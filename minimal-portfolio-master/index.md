@@ -10,7 +10,7 @@ ANALISIS CUSTOMER CHURN PREDICTION PADA E-COMMERCE
 
 **Customer Churn Prediction:** Chrun customer prediction bertujuan untuk memprediks peluang pelanggan untuk beralih atau churn, sehingga e-commerce dapat memberikan perhatian yang meminimalkan peluang mereka untuk beralih. Prediksi dibuat menggunakan machine learning, dengan menggunakan salah satu algoritmanya yaitu regresi logistik, dimana algoritma regresi logistik akan mengklasifikasikan pelanggan sebagai chrun di masa mendatang atau tidak, dengan menerapkan metodologi Cross Industry Standard Process for Data Mining (CRISP-DM).
 
-<center><img src="images/nlp.png"/></center>
+<center><img src="images/crispdm.png"/></center>
 
 ---
 <center>© 2020 Khanh Tran. Powered by Jekyll and the Minimal Theme.</center>
