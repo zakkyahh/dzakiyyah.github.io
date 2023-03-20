@@ -1,6 +1,6 @@
 # Portfolio
 ---
-## Assigment 1 Data Analytics in Zenius
+## Assignments 1 Data Analytics in Zenius
 
 ### USE CASE DATA SCIENCE DI BISNIS INDUSTRI RETAIL
 
